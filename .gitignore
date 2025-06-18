@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.swp
+
+# Credentials
+hidden.py
+*.env
+.env*
+secrets.*
+config.py
+
+# Database
+*.sqlite
+*.db
+*.dump
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
